@@ -430,11 +430,17 @@
       "icon": "angle-down",
       "path": "/documentation/components/dropdown"
     },
-    "components-menu": {
-      "name": "Menu",
+    "components-list": {
+      "name": "List",
       "subtitle": "A simple <strong>menu</strong>, for any type of vertical navigation",
       "icon": "bars",
       "path": "/documentation/components/menu"
+    },
+    "components-menu": {
+      "name": "Menu",
+      "subtitle": "A simple styled <strong>list</strong> of elements",
+      "icon": "list",
+      "path": "/documentation/components/list"
     },
     "components-message": {
       "name": "Message",
